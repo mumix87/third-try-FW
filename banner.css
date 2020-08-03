@@ -1,0 +1,26 @@
+#banner{
+   max-width: 100%;
+   background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url("img web/fotobanner.jpg");
+    background-position: center;
+    background-size: cover;
+    color: white;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding-top: 60px;
+    border-radius: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#banner h1{
+    color:white;
+    font-family: 'Caveat', cursive;
+    font-size: 90px;
+
+}
+
+#banner p{
+    font-family: 'Shadows Into Light', cursive;
+    color:white;
+    font-size: 30px;
+
+}

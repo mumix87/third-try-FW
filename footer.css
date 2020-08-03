@@ -1,0 +1,32 @@
+.footer {
+
+ font-size: 30px;
+ background: #464444c9;
+ display: flex;
+ justify-content: center;
+ height: 90px;
+ align-items: center;
+ 
+ }
+
+.footer h1 {
+	text-align: center;
+	color:white;
+ font-size: 25px;
+ font-family: 'Caveat', cursive;
+
+}
+
+.footer i {
+	
+ text-align: center;
+  font-size: 30px;
+  margin-left:20px;
+  color: black;
+}
+
+i:hover{
+	color:#00000096;
+}
+
+
